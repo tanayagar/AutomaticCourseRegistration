@@ -1,0 +1,13 @@
+Automatic Course Registration :
+
+Given a dictionary of Wishlist, the python code automatically registers the courses.
+
+Execution Procedure :
+1) Save all the files in a folder and load in python environment
+2) Update the dictionary Wishlist if you want to register different courses
+3) run a3.py
+4) The code returns the steps taken to register the course and the registered courses with the number of credits
+5) On requesting input, enter 'y' to update the databases after registering the courses
+6) Open the file registered.html to view the registered courses in a table
+
+Note: On registering courses the number of classes in the database decreasing , making it difficult for newer iterations to register courses. To prevent this, replace the contents in the classes.csv with the contents of original_classes_csv.txt
